@@ -1,0 +1,19 @@
+{
+  "name": "thecuriouscaseofsergchendilov",
+  "version": "1.0.0",
+  "description": "History About Born",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctiki/TheCuriousCaseOfSergChendilov.git"
+  },
+  "author": "ctikitsg@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctiki/TheCuriousCaseOfSergChendilov/issues"
+  },
+  "homepage": "https://github.com/ctiki/TheCuriousCaseOfSergChendilov#readme"
+}
